@@ -41,7 +41,7 @@
         <property name="driverClassName"
             value="com.mysql.jdbc.Driver" />
         <property name="url"
-            value="jdbc:mysql://192.168.0.23:3306/webdb" />
+            value="jdbc:mysql://localhost:3306/webdb" />
         <property name="username" value="webdb" />
         <property name="password" value="webdb" />
     </bean>
